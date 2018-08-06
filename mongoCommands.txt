@@ -1,0 +1,2 @@
+sudo mongod --dbpath ./mongo-data
+sudo service mongod stop
